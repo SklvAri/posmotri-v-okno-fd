@@ -1,1 +1,1 @@
-https://github.com/SklvAri/posmotri-v-okno-fd/tree/main
+https://github.com/SklvAri/posmotri-v-okno-fd
